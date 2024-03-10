@@ -22,7 +22,7 @@
 
 ## Lab Topology
 
-<img src="https://github.com/ndean06/AD-with-PS-Lab/blob/main/adps-images/adps-ref1.png" alt="Alt text for image" width="720" height="540">
+<img src="https://github.com/ndean06/SOC-Automation-Lab/blob/main/soc-auto-images/soc-auto-ref1.png" alt="Alt text for image" width="690" height="765">
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
