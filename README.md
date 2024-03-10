@@ -1,12 +1,10 @@
-# SOC-Automation-Lab
-# Active Directory with PowerShell Automation Home Lab
+# SOC Automation Home Lab
 
 ## Objective
-
-
+TO build a fully functional home lab with responsive capabilities and a case management system to simulate a real SOC enviorment
 
 ### Key Goals
-
+[Replace with the project's key goals]
 <strong>Active Directory Configuration and Management:</strong>
 <br>-To establish a fully functional Active Directory environment that simulates enterprise setups 
 <br><strong>PowerShell Automation Mastery:</strong>
