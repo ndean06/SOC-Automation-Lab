@@ -1,7 +1,7 @@
 # SOC Automation Home Lab
 
 ## Objective
-TO build a fully functional home lab with responsive capabilities and a case management system to simulate a real SOC enviorment
+This project aims to create a comprehensive home lab environment to simulate a Security Operations Center (SOC). It includes the setup of a responsive infrastructure with integrated security monitoring capabilities and a case management system for incident handling and response.
 
 ### Key Goals
 [Replace with the project's key goals]
